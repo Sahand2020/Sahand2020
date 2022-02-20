@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I am Sahand Torabnejad :)
 ---
 ### About Me
+My Name is Sahand Torabnejad. I was born in October 2000.
 I am a Front-End developer.
 I have listed my skills in the **toolbox** below.
 
