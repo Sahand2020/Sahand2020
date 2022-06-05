@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I am Sahand Torabnejad :)
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> I am Sahand Torabnejad :)
 ---
 ### About Me
 My Name is Sahand Torabnejad. I was born in October 2000.
