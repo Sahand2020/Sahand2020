@@ -4,7 +4,7 @@
 <h4 align="center">About Me</h4>
 My Name is Sahand Torabnejad. I was born in October 2000.
 I am a Front-End developer.
-I have listed my skills in the toolbox below.
+I have listed my skills down below.
 
 I am a web developer and I am always learning technologies in this field. I am currently focusing on React. Practicing daily is one of my habits. I am also an elementary school teacher.
 <br/>
