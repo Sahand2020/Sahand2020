@@ -1,5 +1,5 @@
 <h2 align="center">Hi Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h2>
-<h1 align="center"><samp> I am Sahand Torabnejad 👦</samp></h1>
+<h1 align="center">I am Sahand Torabnejad 👦</h1>
 
 <h4 align="center">About Me</h4>
 My Name is Sahand Torabnejad. I was born in October 2000.
