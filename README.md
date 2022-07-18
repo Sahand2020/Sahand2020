@@ -4,7 +4,7 @@
 <h4 align="center">About Me</h4>
 My Name is Sahand Torabnejad. I was born in October 2000.
 I am a Front-End developer.
-I have listed my skills in the **toolbox** below.
+I have listed my skills in the toolbox below.
 
 I am a web developer and I am always learning technologies in this field. I am currently focusing on React. Practicing daily is one of my habits. I am also an elementary school teacher.
 <br/>
@@ -32,47 +32,39 @@ I am a web developer and I am always learning technologies in this field. I am c
 <br/>
 <hr/>
   
-<h4 align="center">Platforms , Libraries and Other</h4>
+  <h4 align="center">🧰 Platforms , Libraries , Tools 🧰</h4>
 
 <br/>
 <div align="center">
   <img  src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap logo" width="55" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap logo" width="55" height="55"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="Npm" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual studio code" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab" width="50" height="50" />
 </div>
   
 <hr/>
   
-<h4 align="center">🧰 Toolbox 🧰</h4>
+<h4 align="center"></h4>
 <br/>
 <div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="Npm" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual studio code" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab" width="45" height="45"/>
+  
 </div>
   
 <hr/>
   
 <h3 align="center">Stats</h3>
   
-<div align="center">
-  <a href="https://github.com/Sahand2020#user-activity-overview">
-    <img align="center" src="https://github-readme-stats-Sahand2020.vercel.app/api/top-langs?username=Sahand2020&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="220" alt="Sahand2020 top languages used" />
-    <img align="center" src="https://github-readme-stats-Sahand2020.vercel.app/api?username=Sahand2020&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="Sahand2020 contributions overview" height="220" />
-  </a>
-</div>
-  
-<div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Sahand2020&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langsusername=Sahand2020&show_icons=true&hide_border=true&count_private=true&theme=radical"   alt="Language status" />
-  </div>
-</div>
 <p align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahand2020&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahand2020&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Languages Status"/>
+</p>
+
 
 <!--
 **Sahand2020/Sahand Torabnejad** is a ✨ _special_ ✨ repository because it's `README.md` (this file) appears on your GitHub profile.
