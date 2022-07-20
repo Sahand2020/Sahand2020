@@ -11,14 +11,63 @@ I am a web developer and I am always learning technologies in this field. I am c
 <hr />
 
 <h3 align="center">Contact me on Social Media <h3>
-  <p align="center"> 
-   <a href="https://www.linkedin.com/in/sahand-torabnejad-6a3605238/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin"    alt="Linkedin" /></a>
-   <a href="https://www.instagram.com/sahand.__.2020/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>  
-   <a href="https://sahandtorabnejad202020@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"          alt="Gmail" /></a>
-   <a href="https://t.me/Sahand_T_2020"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"   /></a>
-   <a href="https://wa.me/989148105168"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
-   <a href="https://twitter.com/Sahand_2020/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>      </a>
-  </p>
+ 
+<p align="center"> 
+   <a href="https://sahandtorabnejad202020@gmail.com/" target="_blank">
+      <img
+          align="center"
+          src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png"
+          alt="linkedin"
+          height="33"
+          width="55"
+      />
+   </a>
+   <a href="https://www.linkedin.com/in/sahand-torabnejad-6a3605238/" target="_blank">
+      <img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+          alt="linkedin"
+          height="35"
+          width="40"
+      />
+   </a>
+   <a href="https://twitter.com/Sahand_2020/" target="_blank">
+      <img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+          alt="twitter"
+          height="35"
+          width="40"
+       />
+   </a>
+   <a href="https://www.instagram.com/sahand.__.2020/" target="_blank">
+      <img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+          alt="instagram"
+          height="35"
+          width="40"
+      />
+   </a>
+   <a href="https://wa.me/989148105168" target="_blank">
+      <img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
+          alt="whatsapp"
+          height="35"
+          width="40"
+      />
+   </a>
+   <a href="https://t.me/Sahand_T_2020" target="_blank">
+      <img
+          align="center"
+          src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-512.png"
+          alt="telegram"
+          height="40"
+          width="40"
+      />
+   </a>
+</p>
 
 <br/>
 <hr/>
@@ -36,14 +85,14 @@ I am a web developer and I am always learning technologies in this field. I am c
 
 <br/>
 <div align="center">
-  <img  src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap logo" width="55" height="55"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="Npm" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual studio code" width="50" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html logo" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css logo" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="Bootstrap logo" width="55" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="45" height="45" />
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="45" height="45" />
+  <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="Npm" width="45" height="45" />
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual studio code" width="45" height="45" />
+  <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab" width="45" height="45" />
 </div>
   
 <hr/>
