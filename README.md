@@ -87,6 +87,7 @@ I am a web developer and I am always learning technologies in this field. I am c
 <div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html logo" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css logo" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass" width="50" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="Bootstrap logo" width="55" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="45" height="45" />
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="45" height="45" />
